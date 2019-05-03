@@ -1,0 +1,51 @@
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.exe.config
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.exe
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.pdb
+F:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.Properties.Resources.resources
+F:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csproj.GenerateResource.cache
+F:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.exe
+F:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.pdb
+F:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.ToDo.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.exe.config
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.exe
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.pdb
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.Properties.Resources.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.ToDo.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.exe
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.pdb
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.ToDoForm.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csprojAssemblyReference.cache
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\mscorlib.dll
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\System.Net.Http.dll
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\System.Net.Http.xml
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\ru\mscorlib.resources.dll
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\normidna.nlp
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\normnfc.nlp
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\normnfd.nlp
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\normnfkc.nlp
+F:\TP-k' 2019\TP-k\TP-k\bin\Debug\normnfkd.nlp
+F:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.ToDoForm.resources
+D:\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.exe.config
+D:\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.exe
+D:\TP-k' 2019\TP-k\TP-k\bin\Debug\TP-k.pdb
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.ToDoForm.resources
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.Properties.Resources.resources
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP_k.ToDo.resources
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csproj.GenerateResource.cache
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csproj.CoreCompileInputs.cache
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.exe
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.pdb
+D:\TP-k' 2019\TP-k\TP-k\obj\Debug\TP-k.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\bin\Debug\TP-k.exe.config
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\bin\Debug\TP-k.exe
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\bin\Debug\TP-k.pdb
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP_k.ToDoForm.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP_k.Properties.Resources.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP_k.ToDo.resources
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP-k.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP-k.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP-k.exe
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP-k.pdb
+C:\Users\Andrey\Desktop\4 семестр\TP-k (exp)\TP-k\obj\Debug\TP-k.csprojAssemblyReference.cache
